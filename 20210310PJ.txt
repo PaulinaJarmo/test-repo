@@ -1,0 +1,25 @@
+Strona A (MSISDN dzwoniącego): 48450020800
+
+Strona B (MSISDN odbierającego): 800120002
+
+Czy problem dotyczy połączeń z jedną osobą czy z różnymi osobami?: Z jedną
+
+Od kiedy do kiedy występował problem (daty w formacie dd-mm-rrrr): 19.03.2021
+
+Czy problem występuje tylko w jednej lokalizacji czy w różnych?: w różnych 
+
+Miejscowość, w której wystąpił problem: 41-506 Chorzów
+
+Ulica i nr domu, gdzie wystąpił problem: Farna 11
+
+Dokładny czas próby połączenia (data + gg:mm:ss): 19.03.2021 21:33; 21:53; 22:02; 22:57
+
+Komunikat na wyświetlaczu lub w słuchawce: brak
+
+Model telefonu: Xiaomi Redmi Note 8 Pro
+
+Czy po przełożeniu karty SIM do innego aparatu problem występuje (tak / nie / brak próby)?: brak możliwośći próby
+
+DOKŁADNY OPIS PROBLEMU: Jeden z naszych użytkowników nie może się połączyć z numerem niebieskiej linii.
+Połączenia w ogólne nie odkładają się w CRM. Z tego co sprawdzał, problem występuje tylko z tym jednym numerm. 
+Po wybraniu numeru w słuchawce słychać dźwięk wybierania numeru, ale połączenie się nie udaje. 
